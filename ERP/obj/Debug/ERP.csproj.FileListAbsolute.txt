@@ -1,0 +1,248 @@
+c:\users\haseeb ahmed\documents\visual studio 2015\Projects\ERP\ERP\bin\roslyn\csc.exe
+c:\users\haseeb ahmed\documents\visual studio 2015\Projects\ERP\ERP\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+c:\users\haseeb ahmed\documents\visual studio 2015\Projects\ERP\ERP\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+c:\users\haseeb ahmed\documents\visual studio 2015\Projects\ERP\ERP\bin\roslyn\Microsoft.CodeAnalysis.dll
+c:\users\haseeb ahmed\documents\visual studio 2015\Projects\ERP\ERP\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+c:\users\haseeb ahmed\documents\visual studio 2015\Projects\ERP\ERP\bin\roslyn\Microsoft.CSharp.Core.targets
+c:\users\haseeb ahmed\documents\visual studio 2015\Projects\ERP\ERP\bin\roslyn\Microsoft.VisualBasic.Core.targets
+c:\users\haseeb ahmed\documents\visual studio 2015\Projects\ERP\ERP\bin\roslyn\System.Collections.Immutable.dll
+c:\users\haseeb ahmed\documents\visual studio 2015\Projects\ERP\ERP\bin\roslyn\System.Reflection.Metadata.dll
+c:\users\haseeb ahmed\documents\visual studio 2015\Projects\ERP\ERP\bin\roslyn\vbc.exe
+c:\users\haseeb ahmed\documents\visual studio 2015\Projects\ERP\ERP\bin\roslyn\VBCSCompiler.exe
+c:\users\haseeb ahmed\documents\visual studio 2015\Projects\ERP\ERP\bin\roslyn\VBCSCompiler.exe.config
+c:\users\haseeb ahmed\documents\visual studio 2015\Projects\ERP\ERP\bin\ERP.dll.config
+c:\users\haseeb ahmed\documents\visual studio 2015\Projects\ERP\ERP\bin\ERP.dll
+c:\users\haseeb ahmed\documents\visual studio 2015\Projects\ERP\ERP\bin\ERP.pdb
+c:\users\haseeb ahmed\documents\visual studio 2015\Projects\ERP\ERP\bin\Antlr3.Runtime.dll
+c:\users\haseeb ahmed\documents\visual studio 2015\Projects\ERP\ERP\bin\AspNet.ScriptManager.bootstrap.dll
+c:\users\haseeb ahmed\documents\visual studio 2015\Projects\ERP\ERP\bin\AspNet.ScriptManager.jQuery.dll
+c:\users\haseeb ahmed\documents\visual studio 2015\Projects\ERP\ERP\bin\EntityFramework.dll
+c:\users\haseeb ahmed\documents\visual studio 2015\Projects\ERP\ERP\bin\EntityFramework.SqlServer.dll
+c:\users\haseeb ahmed\documents\visual studio 2015\Projects\ERP\ERP\bin\Microsoft.AspNet.FriendlyUrls.dll
+c:\users\haseeb ahmed\documents\visual studio 2015\Projects\ERP\ERP\bin\Microsoft.AspNet.Identity.Core.dll
+c:\users\haseeb ahmed\documents\visual studio 2015\Projects\ERP\ERP\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+c:\users\haseeb ahmed\documents\visual studio 2015\Projects\ERP\ERP\bin\Microsoft.AspNet.Identity.Owin.dll
+c:\users\haseeb ahmed\documents\visual studio 2015\Projects\ERP\ERP\bin\Microsoft.AspNet.Web.Optimization.WebForms.dll
+c:\users\haseeb ahmed\documents\visual studio 2015\Projects\ERP\ERP\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+c:\users\haseeb ahmed\documents\visual studio 2015\Projects\ERP\ERP\bin\Microsoft.Owin.dll
+c:\users\haseeb ahmed\documents\visual studio 2015\Projects\ERP\ERP\bin\Microsoft.Owin.Host.SystemWeb.dll
+c:\users\haseeb ahmed\documents\visual studio 2015\Projects\ERP\ERP\bin\Microsoft.Owin.Security.Cookies.dll
+c:\users\haseeb ahmed\documents\visual studio 2015\Projects\ERP\ERP\bin\Microsoft.Owin.Security.dll
+c:\users\haseeb ahmed\documents\visual studio 2015\Projects\ERP\ERP\bin\Microsoft.Owin.Security.Facebook.dll
+c:\users\haseeb ahmed\documents\visual studio 2015\Projects\ERP\ERP\bin\Microsoft.Owin.Security.Google.dll
+c:\users\haseeb ahmed\documents\visual studio 2015\Projects\ERP\ERP\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+c:\users\haseeb ahmed\documents\visual studio 2015\Projects\ERP\ERP\bin\Microsoft.Owin.Security.OAuth.dll
+c:\users\haseeb ahmed\documents\visual studio 2015\Projects\ERP\ERP\bin\Microsoft.Owin.Security.Twitter.dll
+c:\users\haseeb ahmed\documents\visual studio 2015\Projects\ERP\ERP\bin\Microsoft.ScriptManager.MSAjax.dll
+c:\users\haseeb ahmed\documents\visual studio 2015\Projects\ERP\ERP\bin\Microsoft.ScriptManager.WebForms.dll
+c:\users\haseeb ahmed\documents\visual studio 2015\Projects\ERP\ERP\bin\Microsoft.Web.Infrastructure.dll
+c:\users\haseeb ahmed\documents\visual studio 2015\Projects\ERP\ERP\bin\Newtonsoft.Json.dll
+c:\users\haseeb ahmed\documents\visual studio 2015\Projects\ERP\ERP\bin\Owin.dll
+c:\users\haseeb ahmed\documents\visual studio 2015\Projects\ERP\ERP\bin\System.Web.Optimization.dll
+c:\users\haseeb ahmed\documents\visual studio 2015\Projects\ERP\ERP\bin\System.Web.Providers.dll
+c:\users\haseeb ahmed\documents\visual studio 2015\Projects\ERP\ERP\bin\WebGrease.dll
+c:\users\haseeb ahmed\documents\visual studio 2015\Projects\ERP\ERP\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+c:\users\haseeb ahmed\documents\visual studio 2015\Projects\ERP\ERP\bin\System.Web.Optimization.xml
+c:\users\haseeb ahmed\documents\visual studio 2015\Projects\ERP\ERP\bin\Antlr3.Runtime.pdb
+c:\users\haseeb ahmed\documents\visual studio 2015\Projects\ERP\ERP\bin\Newtonsoft.Json.xml
+c:\users\haseeb ahmed\documents\visual studio 2015\Projects\ERP\ERP\bin\Microsoft.AspNet.FriendlyUrls.xml
+c:\users\haseeb ahmed\documents\visual studio 2015\Projects\ERP\ERP\bin\EntityFramework.xml
+c:\users\haseeb ahmed\documents\visual studio 2015\Projects\ERP\ERP\bin\EntityFramework.SqlServer.xml
+c:\users\haseeb ahmed\documents\visual studio 2015\Projects\ERP\ERP\bin\Microsoft.AspNet.Identity.Core.xml
+c:\users\haseeb ahmed\documents\visual studio 2015\Projects\ERP\ERP\bin\Microsoft.AspNet.Identity.Owin.xml
+c:\users\haseeb ahmed\documents\visual studio 2015\Projects\ERP\ERP\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+c:\users\haseeb ahmed\documents\visual studio 2015\Projects\ERP\ERP\bin\System.Web.Providers.xml
+c:\users\haseeb ahmed\documents\visual studio 2015\Projects\ERP\ERP\bin\Microsoft.Owin.xml
+c:\users\haseeb ahmed\documents\visual studio 2015\Projects\ERP\ERP\bin\Microsoft.Owin.Host.SystemWeb.xml
+c:\users\haseeb ahmed\documents\visual studio 2015\Projects\ERP\ERP\bin\Microsoft.Owin.Security.xml
+c:\users\haseeb ahmed\documents\visual studio 2015\Projects\ERP\ERP\bin\Microsoft.Owin.Security.Facebook.xml
+c:\users\haseeb ahmed\documents\visual studio 2015\Projects\ERP\ERP\bin\Microsoft.Owin.Security.Cookies.xml
+c:\users\haseeb ahmed\documents\visual studio 2015\Projects\ERP\ERP\bin\Microsoft.Owin.Security.Google.xml
+c:\users\haseeb ahmed\documents\visual studio 2015\Projects\ERP\ERP\bin\Microsoft.Owin.Security.Twitter.xml
+c:\users\haseeb ahmed\documents\visual studio 2015\Projects\ERP\ERP\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+c:\users\haseeb ahmed\documents\visual studio 2015\Projects\ERP\ERP\bin\Microsoft.Owin.Security.OAuth.xml
+c:\users\haseeb ahmed\documents\visual studio 2015\Projects\ERP\ERP\obj\Debug\ERP.csprojResolveAssemblyReference.cache
+c:\users\haseeb ahmed\documents\visual studio 2015\Projects\ERP\ERP\obj\Debug\ERP.dll
+c:\users\haseeb ahmed\documents\visual studio 2015\Projects\ERP\ERP\obj\Debug\ERP.pdb
+C:\Users\Haseeb Ahmed\documents\visual studio 2015\Projects\ERP\ERP\bin\DotNetOpenAuth.AspNet.dll
+C:\Users\Haseeb Ahmed\documents\visual studio 2015\Projects\ERP\ERP\bin\DotNetOpenAuth.Core.dll
+C:\Users\Haseeb Ahmed\documents\visual studio 2015\Projects\ERP\ERP\bin\DotNetOpenAuth.OAuth.Consumer.dll
+C:\Users\Haseeb Ahmed\documents\visual studio 2015\Projects\ERP\ERP\bin\DotNetOpenAuth.OAuth.dll
+C:\Users\Haseeb Ahmed\documents\visual studio 2015\Projects\ERP\ERP\bin\DotNetOpenAuth.OpenId.dll
+C:\Users\Haseeb Ahmed\documents\visual studio 2015\Projects\ERP\ERP\bin\DotNetOpenAuth.OpenId.RelyingParty.dll
+C:\Users\Haseeb Ahmed\documents\visual studio 2015\Projects\ERP\ERP\bin\System.Net.Http.dll
+C:\Users\Haseeb Ahmed\documents\visual studio 2015\Projects\ERP\ERP\bin\System.Net.Http.WebRequest.dll
+C:\Users\Haseeb Ahmed\documents\visual studio 2015\Projects\ERP\ERP\bin\Org.Mentalis.Security.Cryptography.dll
+C:\Users\Haseeb Ahmed\documents\visual studio 2015\Projects\ERP\ERP\bin\Mono.Math.dll
+C:\Users\Haseeb Ahmed\documents\visual studio 2015\Projects\ERP\ERP\bin\DotNetOpenAuth.AspNet.xml
+C:\Users\Haseeb Ahmed\documents\visual studio 2015\Projects\ERP\ERP\bin\DotNetOpenAuth.Core.xml
+C:\Users\Haseeb Ahmed\documents\visual studio 2015\Projects\ERP\ERP\bin\DotNetOpenAuth.OAuth.xml
+C:\Users\Haseeb Ahmed\documents\visual studio 2015\Projects\ERP\ERP\bin\DotNetOpenAuth.OAuth.Consumer.xml
+C:\Users\Haseeb Ahmed\documents\visual studio 2015\Projects\ERP\ERP\bin\DotNetOpenAuth.OpenId.xml
+C:\Users\Haseeb Ahmed\documents\visual studio 2015\Projects\ERP\ERP\bin\DotNetOpenAuth.OpenId.RelyingParty.xml
+C:\Users\Haseeb Ahmed\documents\visual studio 2015\Projects\ERP\ERP\bin\System.Net.Http.xml
+C:\Users\Haseeb Ahmed\documents\visual studio 2015\Projects\ERP\ERP\bin\System.Net.Http.WebRequest.xml
+C:\Users\Haseeb Ahmed\documents\visual studio 2015\Projects\ERP\ERP\bin\Org.Mentalis.Security.Cryptography.xml
+C:\Users\Haseeb Ahmed\documents\visual studio 2015\Projects\ERP\ERP\bin\Mono.Math.xml
+C:\Users\Haseeb Ahmed\documents\visual studio 2015\Projects\ERP\ERP\bin\aspnetforum.dll
+C:\Users\Haseeb Ahmed\documents\visual studio 2015\Projects\ERP\ERP\bin\ar-SA\aspnetforum.resources.dll
+C:\Users\Haseeb Ahmed\documents\visual studio 2015\Projects\ERP\ERP\bin\cs-CZ\aspnetforum.resources.dll
+C:\Users\Haseeb Ahmed\documents\visual studio 2015\Projects\ERP\ERP\bin\da-DK\aspnetforum.resources.dll
+C:\Users\Haseeb Ahmed\documents\visual studio 2015\Projects\ERP\ERP\bin\de-DE\aspnetforum.resources.dll
+C:\Users\Haseeb Ahmed\documents\visual studio 2015\Projects\ERP\ERP\bin\es-ES\aspnetforum.resources.dll
+C:\Users\Haseeb Ahmed\documents\visual studio 2015\Projects\ERP\ERP\bin\fr-FR\aspnetforum.resources.dll
+C:\Users\Haseeb Ahmed\documents\visual studio 2015\Projects\ERP\ERP\bin\he-IL\aspnetforum.resources.dll
+C:\Users\Haseeb Ahmed\documents\visual studio 2015\Projects\ERP\ERP\bin\hi-IN\aspnetforum.resources.dll
+C:\Users\Haseeb Ahmed\documents\visual studio 2015\Projects\ERP\ERP\bin\it-IT\aspnetforum.resources.dll
+C:\Users\Haseeb Ahmed\documents\visual studio 2015\Projects\ERP\ERP\bin\nb-NO\aspnetforum.resources.dll
+C:\Users\Haseeb Ahmed\documents\visual studio 2015\Projects\ERP\ERP\bin\nl-NL\aspnetforum.resources.dll
+C:\Users\Haseeb Ahmed\documents\visual studio 2015\Projects\ERP\ERP\bin\pl-PL\aspnetforum.resources.dll
+C:\Users\Haseeb Ahmed\documents\visual studio 2015\Projects\ERP\ERP\bin\pt-pt\aspnetforum.resources.dll
+C:\Users\Haseeb Ahmed\documents\visual studio 2015\Projects\ERP\ERP\bin\ru-RU\aspnetforum.resources.dll
+C:\Users\Haseeb Ahmed\documents\visual studio 2015\Projects\ERP\ERP\bin\sv-SE\aspnetforum.resources.dll
+C:\Users\Haseeb Ahmed\documents\visual studio 2015\Projects\ERP\ERP\bin\tr-TR\aspnetforum.resources.dll
+C:\Users\Haseeb Ahmed\documents\visual studio 2015\Projects\ERP\ERP\bin\zh-cn\aspnetforum.resources.dll
+C:\Users\Haseeb Ahmed\documents\visual studio 2015\Projects\ERP\ERP\bin\Autofac.dll
+C:\Users\Haseeb Ahmed\documents\visual studio 2015\Projects\ERP\ERP\bin\CookComputing.XmlRpcV2.dll
+C:\Users\Haseeb Ahmed\documents\visual studio 2015\Projects\ERP\ERP\bin\FarsiLibrary.dll
+C:\Users\Haseeb Ahmed\documents\visual studio 2015\Projects\ERP\ERP\bin\Intelligencia.UrlRewriter.dll
+C:\Users\Haseeb Ahmed\documents\visual studio 2015\Projects\ERP\ERP\bin\nStuff.UpdateControls.dll
+C:\Users\Haseeb Ahmed\documents\visual studio 2015\Projects\ERP\ERP\bin\Omu.ValueInjecter.dll
+C:\Users\Haseeb Ahmed\documents\visual studio 2015\Projects\ERP\ERP\bin\ServiceStack.Common.dll
+C:\Users\Haseeb Ahmed\documents\visual studio 2015\Projects\ERP\ERP\bin\ServiceStack.Interfaces.dll
+C:\Users\Haseeb Ahmed\documents\visual studio 2015\Projects\ERP\ERP\bin\ServiceStack.OrmLite.dll
+C:\Users\Haseeb Ahmed\documents\visual studio 2015\Projects\ERP\ERP\bin\ServiceStack.OrmLite.SqlServer.dll
+C:\Users\Haseeb Ahmed\documents\visual studio 2015\Projects\ERP\ERP\bin\ServiceStack.Text.dll
+C:\Users\Haseeb Ahmed\documents\visual studio 2015\Projects\ERP\ERP\bin\YAF.Classes.Config.dll
+C:\Users\Haseeb Ahmed\documents\visual studio 2015\Projects\ERP\ERP\bin\YAF.Classes.Data.dll
+C:\Users\Haseeb Ahmed\documents\visual studio 2015\Projects\ERP\ERP\bin\YAF.Controls.dll
+C:\Users\Haseeb Ahmed\documents\visual studio 2015\Projects\ERP\ERP\bin\YAF.Core.dll
+C:\Users\Haseeb Ahmed\documents\visual studio 2015\Projects\ERP\ERP\bin\YAF.Data.MsSql.dll
+C:\Users\Haseeb Ahmed\documents\visual studio 2015\Projects\ERP\ERP\bin\YAF.dll
+C:\Users\Haseeb Ahmed\documents\visual studio 2015\Projects\ERP\ERP\bin\YAF.Providers.dll
+C:\Users\Haseeb Ahmed\documents\visual studio 2015\Projects\ERP\ERP\bin\YAF.Types.dll
+C:\Users\Haseeb Ahmed\documents\visual studio 2015\Projects\ERP\ERP\bin\YAF.Utils.dll
+E:\ERP\ERP\bin\roslyn\csc.exe
+E:\ERP\ERP\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+E:\ERP\ERP\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+E:\ERP\ERP\bin\roslyn\Microsoft.CodeAnalysis.dll
+E:\ERP\ERP\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+E:\ERP\ERP\bin\roslyn\Microsoft.CSharp.Core.targets
+E:\ERP\ERP\bin\roslyn\Microsoft.VisualBasic.Core.targets
+E:\ERP\ERP\bin\roslyn\System.Collections.Immutable.dll
+E:\ERP\ERP\bin\roslyn\System.Reflection.Metadata.dll
+E:\ERP\ERP\bin\roslyn\vbc.exe
+E:\ERP\ERP\bin\roslyn\VBCSCompiler.exe
+E:\ERP\ERP\bin\roslyn\VBCSCompiler.exe.config
+E:\ERP\ERP\bin\ERP.dll.config
+E:\ERP\ERP\bin\ERP.dll
+E:\ERP\ERP\bin\ERP.pdb
+E:\ERP\ERP\bin\Antlr3.Runtime.dll
+E:\ERP\ERP\bin\AspNet.ScriptManager.bootstrap.dll
+E:\ERP\ERP\bin\AspNet.ScriptManager.jQuery.dll
+E:\ERP\ERP\bin\aspnetforum.dll
+E:\ERP\ERP\bin\Autofac.dll
+E:\ERP\ERP\bin\CookComputing.XmlRpcV2.dll
+E:\ERP\ERP\bin\DotNetOpenAuth.AspNet.dll
+E:\ERP\ERP\bin\DotNetOpenAuth.Core.dll
+E:\ERP\ERP\bin\DotNetOpenAuth.OAuth.Consumer.dll
+E:\ERP\ERP\bin\DotNetOpenAuth.OAuth.dll
+E:\ERP\ERP\bin\DotNetOpenAuth.OpenId.dll
+E:\ERP\ERP\bin\DotNetOpenAuth.OpenId.RelyingParty.dll
+E:\ERP\ERP\bin\EntityFramework.dll
+E:\ERP\ERP\bin\EntityFramework.SqlServer.dll
+E:\ERP\ERP\bin\FarsiLibrary.dll
+E:\ERP\ERP\bin\Intelligencia.UrlRewriter.dll
+E:\ERP\ERP\bin\Microsoft.AspNet.FriendlyUrls.dll
+E:\ERP\ERP\bin\Microsoft.AspNet.Identity.Core.dll
+E:\ERP\ERP\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+E:\ERP\ERP\bin\Microsoft.AspNet.Identity.Owin.dll
+E:\ERP\ERP\bin\Microsoft.AspNet.Web.Optimization.WebForms.dll
+E:\ERP\ERP\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+E:\ERP\ERP\bin\Microsoft.Owin.dll
+E:\ERP\ERP\bin\Microsoft.Owin.Host.SystemWeb.dll
+E:\ERP\ERP\bin\Microsoft.Owin.Security.Cookies.dll
+E:\ERP\ERP\bin\Microsoft.Owin.Security.dll
+E:\ERP\ERP\bin\Microsoft.Owin.Security.Facebook.dll
+E:\ERP\ERP\bin\Microsoft.Owin.Security.Google.dll
+E:\ERP\ERP\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+E:\ERP\ERP\bin\Microsoft.Owin.Security.OAuth.dll
+E:\ERP\ERP\bin\Microsoft.Owin.Security.Twitter.dll
+E:\ERP\ERP\bin\Microsoft.ScriptManager.MSAjax.dll
+E:\ERP\ERP\bin\Microsoft.ScriptManager.WebForms.dll
+E:\ERP\ERP\bin\Microsoft.Web.Infrastructure.dll
+E:\ERP\ERP\bin\Newtonsoft.Json.dll
+E:\ERP\ERP\bin\nStuff.UpdateControls.dll
+E:\ERP\ERP\bin\Omu.ValueInjecter.dll
+E:\ERP\ERP\bin\Owin.dll
+E:\ERP\ERP\bin\ServiceStack.Common.dll
+E:\ERP\ERP\bin\ServiceStack.Interfaces.dll
+E:\ERP\ERP\bin\ServiceStack.OrmLite.dll
+E:\ERP\ERP\bin\ServiceStack.OrmLite.SqlServer.dll
+E:\ERP\ERP\bin\ServiceStack.Text.dll
+E:\ERP\ERP\bin\System.Net.Http.dll
+E:\ERP\ERP\bin\System.Net.Http.WebRequest.dll
+E:\ERP\ERP\bin\System.Web.Optimization.dll
+E:\ERP\ERP\bin\System.Web.Providers.dll
+E:\ERP\ERP\bin\WebGrease.dll
+E:\ERP\ERP\bin\YAF.Classes.Config.dll
+E:\ERP\ERP\bin\YAF.Classes.Data.dll
+E:\ERP\ERP\bin\YAF.Controls.dll
+E:\ERP\ERP\bin\YAF.Core.dll
+E:\ERP\ERP\bin\YAF.Data.MsSql.dll
+E:\ERP\ERP\bin\YAF.dll
+E:\ERP\ERP\bin\YAF.Providers.dll
+E:\ERP\ERP\bin\YAF.Types.dll
+E:\ERP\ERP\bin\YAF.Utils.dll
+E:\ERP\ERP\bin\Org.Mentalis.Security.Cryptography.dll
+E:\ERP\ERP\bin\Mono.Math.dll
+E:\ERP\ERP\bin\DotNetOpenAuth.AspNet.xml
+E:\ERP\ERP\bin\DotNetOpenAuth.Core.xml
+E:\ERP\ERP\bin\DotNetOpenAuth.OAuth.xml
+E:\ERP\ERP\bin\DotNetOpenAuth.OAuth.Consumer.xml
+E:\ERP\ERP\bin\DotNetOpenAuth.OpenId.xml
+E:\ERP\ERP\bin\DotNetOpenAuth.OpenId.RelyingParty.xml
+E:\ERP\ERP\bin\Microsoft.AspNet.Identity.Core.xml
+E:\ERP\ERP\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+E:\ERP\ERP\bin\Microsoft.AspNet.Identity.Owin.xml
+E:\ERP\ERP\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+E:\ERP\ERP\bin\System.Net.Http.xml
+E:\ERP\ERP\bin\System.Net.Http.WebRequest.xml
+E:\ERP\ERP\bin\System.Web.Optimization.xml
+E:\ERP\ERP\bin\Antlr3.Runtime.pdb
+E:\ERP\ERP\bin\Newtonsoft.Json.xml
+E:\ERP\ERP\bin\Microsoft.AspNet.FriendlyUrls.xml
+E:\ERP\ERP\bin\EntityFramework.xml
+E:\ERP\ERP\bin\EntityFramework.SqlServer.xml
+E:\ERP\ERP\bin\System.Web.Providers.xml
+E:\ERP\ERP\bin\Microsoft.Owin.xml
+E:\ERP\ERP\bin\Microsoft.Owin.Host.SystemWeb.xml
+E:\ERP\ERP\bin\Microsoft.Owin.Security.xml
+E:\ERP\ERP\bin\Microsoft.Owin.Security.Facebook.xml
+E:\ERP\ERP\bin\Microsoft.Owin.Security.Cookies.xml
+E:\ERP\ERP\bin\Microsoft.Owin.Security.Google.xml
+E:\ERP\ERP\bin\Microsoft.Owin.Security.Twitter.xml
+E:\ERP\ERP\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+E:\ERP\ERP\bin\Microsoft.Owin.Security.OAuth.xml
+E:\ERP\ERP\bin\Org.Mentalis.Security.Cryptography.xml
+E:\ERP\ERP\bin\Mono.Math.xml
+E:\ERP\ERP\bin\ar-SA\aspnetforum.resources.dll
+E:\ERP\ERP\bin\cs-CZ\aspnetforum.resources.dll
+E:\ERP\ERP\bin\da-DK\aspnetforum.resources.dll
+E:\ERP\ERP\bin\de-DE\aspnetforum.resources.dll
+E:\ERP\ERP\bin\es-ES\aspnetforum.resources.dll
+E:\ERP\ERP\bin\fr-FR\aspnetforum.resources.dll
+E:\ERP\ERP\bin\he-IL\aspnetforum.resources.dll
+E:\ERP\ERP\bin\hi-IN\aspnetforum.resources.dll
+E:\ERP\ERP\bin\it-IT\aspnetforum.resources.dll
+E:\ERP\ERP\bin\nb-NO\aspnetforum.resources.dll
+E:\ERP\ERP\bin\nl-NL\aspnetforum.resources.dll
+E:\ERP\ERP\bin\pl-PL\aspnetforum.resources.dll
+E:\ERP\ERP\bin\pt-pt\aspnetforum.resources.dll
+E:\ERP\ERP\bin\ru-RU\aspnetforum.resources.dll
+E:\ERP\ERP\bin\sv-SE\aspnetforum.resources.dll
+E:\ERP\ERP\bin\tr-TR\aspnetforum.resources.dll
+E:\ERP\ERP\bin\zh-cn\aspnetforum.resources.dll
+E:\ERP\ERP\obj\Debug\ERP.csprojResolveAssemblyReference.cache
+E:\ERP\ERP\obj\Debug\ERP.dll
+E:\ERP\ERP\obj\Debug\ERP.pdb
